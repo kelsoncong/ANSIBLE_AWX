@@ -1,0 +1,95 @@
+[GOLD_FA]                                                                                                                                             
+QA_GOLD_KO_LANG(19.7A2_Repo)_FA ansible_ssh_port=22   ansible_ssh_host=slc14crl.us.oracle.com ansible_ssh_user=root                                   
+QA_GOLD_CDRM(19.07A2_Repo)_FA ansible_ssh_port=22   ansible_ssh_host=slc11ilf.us.oracle.com ansible_ssh_user=root                                     
+QA_GOLD_STARTER_NEW(19.07C_repo)_FA ansible_ssh_port=22   ansible_ssh_host=slc07euq.us.oracle.com ansible_ssh_user=root                               
+[SILVER_FA]                                                                                                                                           
+QA_SILVER_STARTER_NEW(19.07A2_repo)_FA ansible_ssh_port=22   ansible_ssh_host=slc08hxx.us.oracle.com ansible_ssh_user=root                            
+QA_SILVER_MOBILE(19.07A2_repo)_FA ansible_ssh_port=22   ansible_ssh_host=slc09gts.us.oracle.com ansible_ssh_user=root                                 
+QA_SILVER_AUTO_LARGE_NEW(19.07A2_Repo)_FA ansible_ssh_port=22   ansible_ssh_host=slc11lta.us.oracle.com ansible_ssh_user=root                         
+QA_SILVER_MANUAL_LARGE_NEW(19.07A2_repo)_FA ansible_ssh_port=22   ansible_ssh_host=slc09xgd.us.oracle.com ansible_ssh_user=root                       
+[BRONZE_FA]                                                                                                                                           
+DEV_BRONZE(13.19.07C_Repo)_FA ansible_ssh_port=22   ansible_ssh_host=slc11hsu.us.oracle.com ansible_ssh_user=root                                     
+QA_BRONZE_AUTO(13.19.07C_Repo)_FA ansible_ssh_port=22   ansible_ssh_host=slc14chp.us.oracle.com ansible_ssh_user=root                                 
+QA_BRONZE_MOBILE(13.19.07C_Repo)_FA ansible_ssh_port=22   ansible_ssh_host=slc11ids.us.oracle.com ansible_ssh_user=root                               
+QA_BRONZE_MANUAL_LARGE(13.19.07C_Repo)_FA ansible_ssh_port=22   ansible_ssh_host=slc14och.us.oracle.com ansible_ssh_user=root                         
+[PT_FA]                                                                                                                                               
+QA_13_19_04_HCM_Family_PT(19.04GA_repo)_FA ansible_ssh_port=22   ansible_ssh_host=slc14aor.us.oracle.com ansible_ssh_user=root                        
+QA_13_19_04_HCM_Mobile_PT(19.04GA_repo)_FA ansible_ssh_port=22   ansible_ssh_host=slc09lmv.us.oracle.com ansible_ssh_user=root                        
+QA_13_19_01_HCM_Family_PT(19.01GA_repo)_FA ansible_ssh_port=22   ansible_ssh_host=slc03urb.us.oracle.com ansible_ssh_user=root                        
+[GOLD_DB]                                                                                                                                             
+QA_GOLD_KO_LANG(19.7A2_Repo)_DB ansible_ssh_port=22   ansible_ssh_host=slc14cro.us.oracle.com ansible_ssh_user=root                                   
+QA_GOLD_CDRM(19.07A2_Repo)_DB ansible_ssh_port=22   ansible_ssh_host=slc11ili.us.oracle.com ansible_ssh_user=root                                     
+QA_GOLD_STARTER_NEW(19.07C_repo)_DB ansible_ssh_port=22   ansible_ssh_host=slc07eus.us.oracle.com ansible_ssh_user=root                               
+[SILVER_DB]                                                                                                                                           
+QA_SILVER_STARTER_NEW(19.07A2_repo)_DB ansible_ssh_port=22   ansible_ssh_host=slc08hxz.us.oracle.com ansible_ssh_user=root                            
+QA_SILVER_MOBILE(19.07A2_repo)_DB ansible_ssh_port=22   ansible_ssh_host=slc09guc.us.oracle.com ansible_ssh_user=root                                 
+QA_SILVER_AUTO_LARGE_NEW(19.07A2_Repo)_DB ansible_ssh_port=22   ansible_ssh_host=slc11ltd.us.oracle.com ansible_ssh_user=root                         
+QA_SILVER_MANUAL_LARGE_NEW(19.07A2_repo)_DB ansible_ssh_port=22   ansible_ssh_host=slc11lpp.us.oracle.com ansible_ssh_user=root                       
+[BRONZE_DB]                                                                                                                                           
+DEV_BRONZE(13.19.07C_Repo)_DB ansible_ssh_port=22   ansible_ssh_host=slc11hsx.us.oracle.com ansible_ssh_user=root                                     
+QA_BRONZE_AUTO(13.19.07C_Repo)_DB ansible_ssh_port=22   ansible_ssh_host=slc14chs.us.oracle.com ansible_ssh_user=root                                 
+QA_BRONZE_MOBILE(13.19.07C_Repo)_DB ansible_ssh_port=22   ansible_ssh_host=slc11idv.us.oracle.com ansible_ssh_user=root                               
+QA_BRONZE_MANUAL_LARGE(13.19.07C_Repo)_DB ansible_ssh_port=22   ansible_ssh_host=slc14ock.us.oracle.com ansible_ssh_user=root                         
+[PT_DB]                                                                                                                                               
+QA_13_19_04_HCM_Family_PT(19.04GA_repo)_DB ansible_ssh_port=22   ansible_ssh_host=slc14aou.us.oracle.com ansible_ssh_user=root                        
+QA_13_19_04_HCM_Mobile_PT(19.04GA_repo)_DB ansible_ssh_port=22   ansible_ssh_host=slc09lmy.us.oracle.com ansible_ssh_user=root                        
+QA_13_19_01_HCM_Family_PT(19.01GA_repo)_DB ansible_ssh_port=22   ansible_ssh_host=slc03ure.us.oracle.com ansible_ssh_user=root                        
+[GOLD_OHS]                                                                                                                                            
+QA_GOLD_KO_LANG(19.7A2_Repo)_OHS ansible_ssh_port=22   ansible_ssh_host=slc14crm.us.oracle.com ansible_ssh_user=root                                  
+QA_GOLD_CDRM(19.07A2_Repo)_OHS ansible_ssh_port=22   ansible_ssh_host=slc11ilg.us.oracle.com ansible_ssh_user=root                                    
+QA_GOLD_STARTER_NEW(19.07C_repo)_OHS ansible_ssh_port=22   ansible_ssh_host=slc07eup.us.oracle.com ansible_ssh_user=root                              
+[SILVER_OHS]                                                                                                                                          
+QA_SILVER_STARTER_NEW(19.07A2_repo)_OHS ansible_ssh_port=22   ansible_ssh_host=slc08hxw.us.oracle.com ansible_ssh_user=root                           
+QA_SILVER_MOBILE(19.07A2_repo)_OHS ansible_ssh_port=22   ansible_ssh_host=slc09gtt.us.oracle.com ansible_ssh_user=root                                
+QA_SILVER_AUTO_LARGE_NEW(19.07A2_Repo)_OHS ansible_ssh_port=22   ansible_ssh_host=slc11ltb.us.oracle.com ansible_ssh_user=root                        
+QA_SILVER_MANUAL_LARGE_NEW(19.07A2_repo)_OHS ansible_ssh_port=22   ansible_ssh_host=slc09xge.us.oracle.com ansible_ssh_user=root                      
+[BRONZE_OHS]                                                                                                                                          
+DEV_BRONZE(13.19.07C_Repo)_OHS ansible_ssh_port=22   ansible_ssh_host=slc11hsv.us.oracle.com ansible_ssh_user=root                                    
+QA_BRONZE_AUTO(13.19.07C_Repo)_OHS ansible_ssh_port=22   ansible_ssh_host=slc14chq.us.oracle.com ansible_ssh_user=root                                
+QA_BRONZE_MOBILE(13.19.07C_Repo)_OHS ansible_ssh_port=22   ansible_ssh_host=slc11idt.us.oracle.com ansible_ssh_user=root                              
+QA_BRONZE_MANUAL_LARGE(13.19.07C_Repo)_OHS ansible_ssh_port=22   ansible_ssh_host=slc14oci.us.oracle.com ansible_ssh_user=root                        
+[PT_OHS]                                                                                                                                              
+QA_13_19_04_HCM_Family_PT(19.04GA_repo)_OHS ansible_ssh_port=22   ansible_ssh_host=slc14aos.us.oracle.com ansible_ssh_user=root                       
+QA_13_19_04_HCM_Mobile_PT(19.04GA_repo)_OHS ansible_ssh_port=22   ansible_ssh_host=slc09lmw.us.oracle.com ansible_ssh_user=root                       
+QA_13_19_01_HCM_Family_PT(19.01GA_repo)_OHS ansible_ssh_port=22   ansible_ssh_host=slc03urc.us.oracle.com ansible_ssh_user=root                       
+[GOLD_IDM]                                                                                                                                            
+QA_GOLD_KO_LANG(19.7A2_Repo)_IDM ansible_ssh_port=22   ansible_ssh_host=slc14crn.us.oracle.com ansible_ssh_user=root                                  
+QA_GOLD_CDRM(19.07A2_Repo)_IDM ansible_ssh_port=22   ansible_ssh_host=slc11ilh.us.oracle.com ansible_ssh_user=root                                    
+QA_GOLD_STARTER_NEW(19.07C_repo)_IDM ansible_ssh_port=22   ansible_ssh_host=slc07eur.us.oracle.com ansible_ssh_user=root                              
+[SILVER_IDM]                                                                                                                                          
+QA_SILVER_STARTER_NEW(19.07A2_repo)_IDM ansible_ssh_port=22   ansible_ssh_host=slc08hxy.us.oracle.com ansible_ssh_user=root                           
+QA_SILVER_MOBILE(19.07A2_repo)_IDM ansible_ssh_port=22   ansible_ssh_host=slc09gua.us.oracle.com ansible_ssh_user=root                                
+QA_SILVER_AUTO_LARGE_NEW(19.07A2_Repo)_IDM ansible_ssh_port=22   ansible_ssh_host=slc11ltc.us.oracle.com ansible_ssh_user=root                        
+QA_SILVER_MANUAL_LARGE_NEW(19.07A2_repo)_IDM ansible_ssh_port=22   ansible_ssh_host=slc11lpo.us.oracle.com ansible_ssh_user=root                      
+[BRONZE_IDM]                                                                                                                                          
+DEV_BRONZE(13.19.07C_Repo)_IDM ansible_ssh_port=22   ansible_ssh_host=slc11hsw.us.oracle.com ansible_ssh_user=root                                    
+QA_BRONZE_AUTO(13.19.07C_Repo)_IDM ansible_ssh_port=22   ansible_ssh_host=slc14chr.us.oracle.com ansible_ssh_user=root                                
+QA_BRONZE_MOBILE(13.19.07C_Repo)_IDM ansible_ssh_port=22   ansible_ssh_host=slc11idu.us.oracle.com ansible_ssh_user=root                              
+QA_BRONZE_MANUAL_LARGE(13.19.07C_Repo)_IDM ansible_ssh_port=22   ansible_ssh_host=slc14ocj.us.oracle.com ansible_ssh_user=root                        
+[PT_IDM]                                                                                                                                              
+QA_13_19_04_HCM_Family_PT(19.04GA_repo)_IDM ansible_ssh_port=22   ansible_ssh_host=slc14aot.us.oracle.com ansible_ssh_user=root                       
+QA_13_19_04_HCM_Mobile_PT(19.04GA_repo)_IDM ansible_ssh_port=22   ansible_ssh_host=slc09lmx.us.oracle.com ansible_ssh_user=root                       
+QA_13_19_01_HCM_Family_PT(19.01GA_repo)_IDM ansible_ssh_port=22   ansible_ssh_host=slc03urd.us.oracle.com ansible_ssh_user=root                       
+[ALL_FA:children]                                                                                                                                     
+GOLD_FA                                                                                                                                               
+SILVER_FA                                                                                                                                             
+BRONZE_FA                                                                                                                                             
+PT_FA                                                                                                                                                 
+[ALL_OHS:children]                                                                                                                                    
+GOLD_OHS                                                                                                                                              
+SILVER_OHS                                                                                                                                            
+BRONZE_OHS                                                                                                                                            
+PT_OHS                                                                                                                                                
+[ALL_IDM:children]                                                                                                                                    
+GOLD_IDM                                                                                                                                              
+SILVER_IDM                                                                                                                                            
+BRONZE_IDM                                                                                                                                            
+PT_IDM                                                                                                                                                
+[ALL_DB:children]                                                                                                                                     
+GOLD_DB                                                                                                                                               
+SILVER_DB                                                                                                                                             
+BRONZE_DB                                                                                                                                             
+PT_DB                                                                                                                                                 
+[ALL_FA_DB:children]                                                                                                                                  
+ALL_FA                                                                                                                                                
+ALL_DB                                                                                                                                                
